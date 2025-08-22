@@ -1,6 +1,12 @@
 # 🐾 SuperTails Live Store Dataset - Excel EDA Project
 
-![Excel / Google Sheets](https://img.shields.io/badge/Tool-Excel%20%2F%20Google%20Sheets-lightgreen?style=flat-square) ![EDA / Dashboard](https://img.shields.io/badge/Focus-EDA%20%7C%20Dashboard-blue?style=flat-square) ![Business Data](https://img.shields.io/badge/Data-Business%20Data-orange?style=flat-square) ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
+![Tool](https://img.shields.io/badge/Tool-Excel%20%2F%20Google%20Sheets-lightgreen?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Data%20Cleaning%20%7C%20EDA-blue?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Skill](https://img.shields.io/badge/Skill-PivotTables%20%26%20Dashboard-orange?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+![SQL](https://img.shields.io/badge/Skill-SQL-00758F?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Skill-Data%20Analysis-6f42c1?style=for-the-badge&logo=tableau&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Skill-Problem%20Solving-ff4500?style=for-the-badge&logo=leanpub&logoColor=white)
+![Logical Thinking](https://img.shields.io/badge/Skill-Logical%20Thinking-009688?style=for-the-badge&logo=brain&logoColor=white)
 
 ---
 
