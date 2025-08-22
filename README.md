@@ -1,5 +1,7 @@
 # 🐾 SuperTails Live Store Dataset - Excel EDA Project
 
+![Excel / Google Sheets](https://img.shields.io/badge/Tool-Excel%20%2F%20Google%20Sheets-lightgreen?style=flat-square) ![EDA / Dashboard](https://img.shields.io/badge/Focus-EDA%20%7C%20Dashboard-blue?style=flat-square) ![Business Data](https://img.shields.io/badge/Data-Business%20Data-orange?style=flat-square) ![Completed](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
+
 ---
 
 ## 📌 Project Overview
